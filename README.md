@@ -41,3 +41,6 @@ java -cp out ru.clevertec.check.CheckRunner id-quantity discountCard=xxxx balanc
 java -cp out ru.clevertec.check.CheckRunner 19-3 2-6 1-6 7-3 discountCard=4444 balanceDebitCard=1000     
 ```
 
+### Результат
+В итоге информация будет представлена в командной строке и файле result.csv
+
